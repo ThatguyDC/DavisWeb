@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=Rock+Salt&family=Ubuntu&display=swap');
+
+   
+.navBar {
+    margin: auto;
+    margin-top: 30px;
+    min-width: 210px;
+    width: 350px;
+    border: 1px solid white;
+    border-radius: 15px;
+    /*
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, 0);
+    */
+}
+
+.navContainer {
+    
+    border-radius: 15px;
+    text-align: center;
+    filter: drop-shadow(1px 1px 3px grey);
+    background-color: #a5d7f5;
+    border: 1px solid white;
+    
+}
+
+.myName:visted {
+    color: #a5d7f5;
+}
+
+.nav:hover {
+    background-color: white;
+    color: #a5d7f5;
+    transition: background-color 0.25s linear;
+}
+
+.nav {
+    
+    min-width: 100px;
+    height: 30px;
+    margin: 0;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 120%;
+    font-family: 'Ubuntu', cursive;
+    cursor: pointer;
+    
+}
+
+a {
+    text-align: center;
+    text-decoration-line: none;
+    font-weight: 700;
+}
+
+a:visited {
+    color: #12171c;
+    text-decoration-line: none;
+}
+
+a, .nav {
+    background: transparent;
+    
+}
+a:hover {
+    background-color: white;
+    color: #a5d7f5;
+    transition: background-color 0.25s linear;
+}
+  
+    /*
+ 
+    */
+  

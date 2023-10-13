@@ -1,0 +1,29 @@
+
+
+
+* {
+  background-color: #12171c;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Julee&family=Rock+Salt&family=Ubuntu&display=swap');
+
+h1, h2 {
+  color: black;
+  font-family: 'Ubuntu', cursive;
+  margin: 0;
+  margin: auto;
+  min-width: 200px;
+  max-width: 20vw;
+  text-align: center;
+  background: none;
+}
+
+p {
+  background: transparent;
+}
+img {
+  border-radius: 10px; 
+}
+
+
+
+

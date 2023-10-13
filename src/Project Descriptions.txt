@@ -1,0 +1,17 @@
+Pinball
+
+As part of the IMS 213 course in Game Development, my partner and I worked together to digitally recreate Pinball, an arcade classic for decades. 
+A favorite feature of this game is the personal selection of music. Two tracks are included that alter the feeling of the game, including an 8 bit rendition of classic gaming history.
+
+Lunar Lander
+
+In addition to our Pinball project, my partner and I set out to create a clone of the classic arcade game Lunar Lander. We were excited to take on the challenge of recreating one of the most beloved games of the early arcade era, especially after a stylized graphical update to a Martian theme and the inclusion of silly and stimulating music.
+
+Lumineers 
+
+As part of the IMS 254 course in Design Principles, I undertook a project to create a mock branding concept for the popular American folk rock band, The Lumineers. Drawing on my knowledge of design principles and branding strategies, I set out to create a cohesive and visually striking brand identity that would capture the essence of the band's music and style.
+
+
+Sovereign Struggle
+
+I had the opportunity to develop a board game that offered an alternate telling of the 1960's Argentine revolution. The game was designed to introduce South American history into the world of territory control board games, while also providing a unique and engaging gameplay experience. The gameplay mechanics are designed to be easy to learn but challenging to master. Players must balance their resources and choose their moves carefully, in order to outmaneuver their opponents and gain the upper hand. Along the way, they will encounter unexpected events and challenges that will test their strategic thinking and decision-making skills. Through its immersive gameplay and historical themes, it encourages players to explore and learn about the complex social and political forces that shaped the Argentine revolution.

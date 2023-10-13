@@ -1,0 +1,62 @@
+
+
+.Project {
+    min-width: 350px;
+    width: 20vw;
+    height: auto;
+    margin: auto;
+    margin-bottom: 40px;
+    background-color: #a5d7f5;
+    color: white;
+    border-radius: 15px;
+    border: 1px solid #12171c;
+    
+}
+.projName {
+
+    min-width: 320px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;    
+    background-color: #12171c;
+    font-family: 'Ubuntu', cursive;
+    color: white;
+}
+.projName:hover {
+    background-color: white;
+    color: #a5d7f5;
+    transition: background-color 0.25s linear;
+    cursor: pointer;
+}
+
+.ProjectDisplay {
+    width: 20vw;
+    min-width: 350px;
+    background-color: #a5d7f5;
+    margin: auto;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    text-align: center;
+
+
+}
+
+.projIMG {
+    width: 20vw;
+    min-width: 285px;
+    height: auto;
+    margin: auto;
+    display: inline-block;
+}
+
+.SectionHeader {
+        color: #a5d7f5;
+        font-family: 'Rock Salt', cursive;
+        font-size: 3em;
+        text-align: center;
+        margin-top: 5vh;
+        
+        
+    }
+
